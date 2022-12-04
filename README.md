@@ -7,7 +7,6 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Navigate the slider using either their mouse/trackpad or keyboard
 
-### Screenshot
 
 ![](./screenshot.jpg)
 
